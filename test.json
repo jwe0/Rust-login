@@ -1,0 +1,11 @@
+{
+  "user-1" : {
+    "password" : "secureafpassword"
+  },
+  "user-2" : {
+    "password" : "password"
+  },
+  "user-3" : {
+    "password" : "supersecretsecurepassword"
+  }
+}
